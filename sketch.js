@@ -12,5 +12,5 @@ function draw() {
   translate (width/2, height/2,);
   rotate (angle);
   rect(0, 0, 100, 50);
-  angle += 50;
+  angle += 25;
 }
